@@ -81,5 +81,7 @@ php artisan migrate
 php artisan serve
 
 npm install --save-dev @babel/plugin-syntax-jsx
+
 npm install --save-dev @babel/preset-react
+
 npm install @babel/core @babel/preset-env
